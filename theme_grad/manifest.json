@@ -1,4 +1,4 @@
-{"name":"HSGrad","version":"1.0","description":"smashh712@gmail.com","manifest_version":3,"theme":
+{"name":"HSGrad","version":"1.0","manifest_version":3, "theme":
 {"images":{"theme_frame":"images\/theme_frame.png",
 "theme_toolbar":"images\/theme_toolbar.png","theme_tab_background":"images\/theme_tab_background.jpeg",
 "theme_ntp_background":"images\/theme_background.png"},
