@@ -1,0 +1,17 @@
+{"name":"grad_dark","version":"1.0","description":"","manifest_version":3,
+"theme":
+{"images":{"theme_frame":"images\/theme_frame.png"
+
+},
+"colors": {"frame":[52,52,52],"toolbar":[22,22,22],"tab_text":[255,255,255],
+"tab_background_text":[255,255,255],
+"tab_background_text_incognito":[255,255,255],
+"tab_background_text_inactive":[255,255,255]
+,"bookmark_text":[255,255,255],"ntp_background":[255,255,255],
+"ntp_text":[255,255,255],"ntp_link":[6,55,116],
+
+"button_background":[0,0,0,0]},
+"tints":{"buttons":[0,0,1], "tab_text":[255,0,0]}
+,"properties":{"ntp_background_alignment":"top","ntp_background_repeat":"no-repeat"}}
+}
+
