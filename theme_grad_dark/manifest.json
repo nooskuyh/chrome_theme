@@ -1,17 +1,45 @@
-{"name":"grad_dark","version":"1.0","description":"","manifest_version":3,
-"theme":
-{"images":{"theme_frame":"images\/theme_frame.png"
+{
+  "description": "The planet Saturn and its rings depicted in blue space.",
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDrynBFJIWnpSppSvlzxC7WnUEtKDC4x88kwa75Ob0sI2BrdoXlLDvTWB6POI5svMc8BVCyYG8IuBqHCp1PSxhrbaS1gwxWRuI28OB9rR1WE2jJppabP3nb5zozQ8dwx5jlkZuRGzn8WWBmin9IZFd67hoLVw2MgYmDxkkDWlAU9QIDAQAB",
+  "manifest_version": 3,
+  "name": "Space Planet",
+  "theme": {
+    "colors": {
+      "bookmark_text": [255, 255, 255],
+      "frame": [52, 0, 0],
+      "frame_inactive": [52, 0, 0],
+      "frame_incognito_inactive": [52, 0, 0],
+      "frame_incongnito": [52, 0, 0],
+      "ntp_background": [255, 255, 255],
+      "ntp_header": [255, 255, 255],
+      "ntp_link": [6, 55, 155],
+      "ntp_text": [255, 255, 255],
+      "ntp_section": [255, 255, 255],
+      "ntp_section_link": [255, 255, 255],
+      "ntp_section_link_underline": [255, 255, 255],
+      "ntp_section_text": [255, 255, 255],
+      "tab_text": [255, 255, 255],
+      "toolbar": [42, 42, 42],
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_incognito": [255, 255, 255],
+      "tab_background_text_inactive": [255, 255, 255]
+  },
+  "images": {
+    "theme_frame": "images/frame.png"
+  },
+  "properties": {
+    "ntp_background_alignment": "top",
+    "ntp_background_repeat": "no-repeat",
+    "ntp_logo_alternate": 1
+  },
+  "tints": {
 
+    "frame_inactive": [0.1, 0.1, 0.1],
+    "frame_incognito": [0.1, 0.1, 0.1],
+    "frame_incognito_inactive": [0.1, 0.1, 0.1],
+    "tab_text": [255, 0, 0]
+  }
 },
-"colors": {"frame":[52,52,52],"toolbar":[22,22,22],"tab_text":[255,255,255],
-"tab_background_text":[255,255,255],
-"tab_background_text_incognito":[255,255,255],
-"tab_background_text_inactive":[255,255,255]
-,"bookmark_text":[255,255,255],"ntp_background":[255,255,255],
-"ntp_text":[255,255,255],"ntp_link":[6,55,116],
-
-"button_background":[0,0,0,0]},
-"tints":{"buttons":[0,0,1], "tab_text":[255,0,0]}
-,"properties":{"ntp_background_alignment":"top","ntp_background_repeat":"no-repeat"}}
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.6"
 }
-
