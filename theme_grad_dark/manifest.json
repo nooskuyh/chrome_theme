@@ -1,6 +1,5 @@
 {
-  "description": "The planet Saturn and its rings depicted in blue space.",
-  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDrynBFJIWnpSppSvlzxC7WnUEtKDC4x88kwa75Ob0sI2BrdoXlLDvTWB6POI5svMc8BVCyYG8IuBqHCp1PSxhrbaS1gwxWRuI28OB9rR1WE2jJppabP3nb5zozQ8dwx5jlkZuRGzn8WWBmin9IZFd67hoLVw2MgYmDxkkDWlAU9QIDAQAB",
+  "description": "Do not distract you",
   "manifest_version": 3,
   "name": "Space Planet",
   "theme": {
