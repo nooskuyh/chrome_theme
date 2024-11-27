@@ -3,3 +3,4 @@
 
 Pretty chrome/edge theme
 - Extensions -> Load unpacked
+The dark version is more prettier
